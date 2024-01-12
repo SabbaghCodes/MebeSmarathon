@@ -6,9 +6,9 @@
 
 ![Mebe Overview](ensemble.png)
 
-![Output Example](localizatoin output examples/yolov5_classification.jpg)
+![Output Example](localization_output_examples/yolov5_classification.jpg)
 
-![Output Example (2)](localizatoin output examples/yolov8_severity_output_example.jpeg)
+![Output Example (2)](localization_output_examples/yolov8_severity_output_example.jpeg)
 ## Localization of Potholes
 
 To effectively localize potholes, we employed a combination of state-of-the-art deep learning models, each specialized in different aspects:
